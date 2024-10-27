@@ -1,0 +1,4 @@
+﻿  snake.c
+C:\Users\CHINASA\source\repos\snake_ai\snake\snake.c(439,5): warning C4026: function declared with formal parameter list
+C:\Users\CHINASA\source\repos\snake_ai\snake\snake.c(441,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  snake.vcxproj -> C:\Users\CHINASA\source\repos\snake_ai\x64\Debug\snake.exe
